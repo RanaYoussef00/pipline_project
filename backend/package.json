@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'No tests yet'",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +15,6 @@
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "mongoose": "^9.6.2"
-  }
+  },
+  "devDependencies": {}
 }
